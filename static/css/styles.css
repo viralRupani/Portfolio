@@ -1,0 +1,82 @@
+header {
+    background-color: #79DAE0;
+    height: 250px;
+}
+
+.title-text {
+    color: white;
+}
+
+.sub-title-text {
+    color: white;
+    font-size: 20px;
+}
+
+.profile-pic {
+    height: 200px;
+    width: 200px;
+    border:#ffffff solid 6px;
+    border-radius: 50%;
+}
+
+
+.skills {
+    margin-top: 150px;
+    color: #79DAE0;
+
+}
+
+.python-img {
+    height: 200px;
+    width: 200px;
+}
+
+.python-txt {
+    font-size: 20px;
+    color: black;
+    text-align: justify;
+    padding-left: 20px;
+}
+
+.card:hover {
+    transform: scale(1.03, 1.03);
+    box-shadow : 1px 1px 5px #73777B;
+}
+
+.project-txt {
+    color: #73777B;
+}
+
+.projects {
+    width: auto;
+    background-color: #E8F9FD;
+    border-radius: 40px;
+    color: #79DAE0;
+}
+
+.contact-me {
+    color: #79DAE0;
+}
+
+.footer {
+    background-color: #79DAE0;
+    height: 100px;
+
+}
+.icon {
+    margin-left: 10px;
+    color:#79DAE0;
+}
+
+.Copyright {
+    color: white;
+}
+
+
+@media (max-width: 600px) {
+    .profile-pic {
+        height: 130px;
+        width: 130px;
+    }
+    
+}
