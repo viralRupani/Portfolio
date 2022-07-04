@@ -19,16 +19,22 @@ header {
     border-radius: 50%;
 }
 
-
-.skills {
-    margin-top: 150px;
-    color: #79DAE0;
-
+#top {
+    padding-top: 100px;
 }
 
-.python-img {
-    height: 200px;
-    width: 200px;
+#bottomone {
+    padding-bottom: 50px;
+}
+
+.skills {
+    margin-top: 15px;
+    color: #79DAE0;
+}
+
+.languages_and_technologies {
+    height: 80px;
+    width: 80px;
 }
 
 .python-txt {
